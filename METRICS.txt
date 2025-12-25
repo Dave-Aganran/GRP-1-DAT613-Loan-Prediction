@@ -1,0 +1,2 @@
+Accuracy: 0.8537
+F1_weighted: 0.8427
